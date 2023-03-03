@@ -1,0 +1,7 @@
+echo "# game" >> README.md
+git init - don't do this
+git add README.md - don't do this
+git commit -m "first commit" - commit to add the changed files
+git branch -M main - create a branch, don't do this
+git remote add origin https://github.com/Owwl/game.git - should do in the beginning/init portion
+git push -u origin main - push all the commited files to git hub, upload it to the cloud repository.
